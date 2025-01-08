@@ -1,0 +1,50 @@
+
+/* Navbar-Stil korrigieren */
+.navbar {
+    background-color: transparent !important; /* Kein Hintergrund */
+    backdrop-filter: blur(5px); /* Optional: Weichzeichner für Glas-Effekt */
+}
+
+.header {
+    height: 400px; /* Höhe des Headers */
+    background-image: url("https://cdna.artstation.com/p/assets/images/images/016/362/200/original/elizabeth-gross-acs-count-down-400px.gif?1551878609");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex; /* Flex-Container erstellen */
+    justify-content: center; /* Horizontal zentrieren */
+    align-items: center; /* Vertikal zentrieren */
+    position: relative;
+    text-align: center; /* Text zentrieren */
+}
+
+.header-overlay {
+    background-color: rgba(0, 0, 0, 0.5); /* Overlay */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center; /* Horizontale Zentrierung */
+    align-items: center; /* Vertikale Zentrierung */
+}
+
+.header-content {
+    position: relative;
+    z-index: 1; /* Stellt sicher, dass der Text über dem Overlay ist */
+}
+
+.custom-carousel {
+    width: 25%;        /* Setzt die Breite auf 25% */
+    margin: 0 auto;    /* Zentriert das Karussell horizontal */
+  }
+  .custom-carousel img {
+    width: 100%;       /* Bilder passen sich der Karussell-Größe an */
+    height: auto;      /* Höhe bleibt proportional */
+  }
+
+.collections {
+    background-color: dimgray; 
+}
+

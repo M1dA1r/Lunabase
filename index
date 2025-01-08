@@ -1,0 +1,190 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Dandylion_Asthetics_collections</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <a href="style.css"></a>
+  <a href="script.js"></a>
+</head>
+<body>
+
+  <div class="container mt-0">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+          <a class="navbar-brand" href="#"></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Navigation umschalten" aria-color="transparent">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav ms-auto">
+                  <li class="nav-item">
+                      <a class="nav-link active" href="index.html">collections</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="gear.html">gear</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="spots.html">spots</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="about.html">about</a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+    </nav>
+  </div>
+<header class="header">
+  <div class="header-overlay">
+    <div class="header-content">
+      <div class="container mt-5" style="text-align: center"><h1>Dandylion_Asthetics</h1>
+        </div>
+    </div>
+  </div>
+</header>
+
+<div class="collections">
+  <div class="container mt-0">
+    <div class="row justify-content-center"> 
+      <div class="col-md-9"> <!-- 3 von 12 Spalten entsprechen 25% --> <h3>PSP GO!CAM Album</h3>
+        <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="DSC00113.JPG" class="d-block w-100" alt="Bild 1">
+            </div>
+            <div class="carousel-item">
+              <img src="DSC00114.JPG" class="d-block w-100" alt="Bild 2">
+            </div>
+            <div class="carousel-item">
+              <img src="DSC00115.JPG" class="d-block w-100" alt="Bild 3">
+            </div>
+            <div class="carousel-item">
+              <img src="DSC00116.JPG" class="d-block w-100" alt="Bild 4">
+            </div>
+            <div class="carousel-item">
+              <img src="DSC00117.JPG" class="d-block w-100" alt="Bild 5">
+            </div>
+            <div class="carousel-item">
+              <img src="DSC00120.JPG" class="d-block w-100" alt="Bild 6">
+            </div>
+            <div class="carousel-item">
+              <img src="DSC00121.JPG" class="d-block w-100" alt="Bild 7">
+            </div>
+            <div class="carousel-item">
+              <img src="DSC00122.JPG" class="d-block w-100" alt="Bild 8">
+            </div>
+            <div class="carousel-item">
+              <img src="DSC00123.JPG" class="d-block w-100" alt="Bild 9">
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Vorherige</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Nächste</span>
+          </button>
+        </div>
+        <div class="container mt-5">
+          <div class="row">
+            <div class="col-md-6">
+              <h3>Canon Powershot A470</h3>
+              <div id="carouselExample2" class="carousel slide" data-bs-ride="carousel2">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="DSC00113.JPG" class="d-block w-100" alt="Bild 1">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00114.JPG" class="d-block w-100" alt="Bild 2">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00115.JPG" class="d-block w-100" alt="Bild 3">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00116.JPG" class="d-block w-100" alt="Bild 4">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00117.JPG" class="d-block w-100" alt="Bild 5">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00120.JPG" class="d-block w-100" alt="Bild 6">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00121.JPG" class="d-block w-100" alt="Bild 7">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00122.JPG" class="d-block w-100" alt="Bild 8">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00123.JPG" class="d-block w-100" alt="Bild 9">
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Vorherige</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Nächste</span>
+                </button>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <h3>Samsung s10</h3>
+              <div id="carouselExample3" class="carousel slide" data-bs-ride="carousel3">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="DSC00113.JPG" class="d-block w-100" alt="Bild 1">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00114.JPG" class="d-block w-100" alt="Bild 2">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00115.JPG" class="d-block w-100" alt="Bild 3">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00116.JPG" class="d-block w-100" alt="Bild 4">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00117.JPG" class="d-block w-100" alt="Bild 5">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00120.JPG" class="d-block w-100" alt="Bild 6">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00121.JPG" class="d-block w-100" alt="Bild 7">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00122.JPG" class="d-block w-100" alt="Bild 8">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="DSC00123.JPG" class="d-block w-100" alt="Bild 9">
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Vorherige</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Nächste</span>
+                </button>
+              </div>
+            </div>
+      </div>
+      
+    </div>
+    
+      </div>
+  </div>
+  
+  </div>
+</div>
+  
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
